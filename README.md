@@ -2,10 +2,6 @@
 
 ### About:
 The YaMDb is a review-aggregation project for film, television, book, music. The YaMDb collect online reviews from users. The users upload their reviews to the movie(TV-show,book,music) page on the website.The YaMDb keeps track of all the reviews counted for each film. An average score on a 0 to 10 scale is also calculated.
-### Developers:
-- [Iskander Ryskulov](https://github.com/IskanderRRR)
-- [Pavel Homov](https://github.com/PavelHomov)
-- [Georgy Popov](https://github.com/Georrgeee)
 
 ### Applied technologies:
 - Python
@@ -85,4 +81,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 ```
 The project is up and running at:  [localhost](http://localhost)
 
-
+### Developers:
+- [Iskander Ryskulov](https://github.com/IskanderRRR)
+- [Pavel Homov](https://github.com/PavelHomov)
+- [Georgy Popov](https://github.com/Georrgeee)
